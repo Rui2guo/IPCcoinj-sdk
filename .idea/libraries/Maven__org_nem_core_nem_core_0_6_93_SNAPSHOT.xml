@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.nem.core:nem-core:0.6.93-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/nem/core/nem-core/0.6.93-SNAPSHOT/nem-core-0.6.93-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/nem/core/nem-core/0.6.93-SNAPSHOT/nem-core-0.6.93-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/nem/core/nem-core/0.6.93-SNAPSHOT/nem-core-0.6.93-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
